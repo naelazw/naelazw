@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there 👋🤗
 
-<!--
-**naelazw/naelazw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Naela, a Quality Assurance & IoT enthusiast, and web developer based in Malang.
 
-Here are some ideas to get you started:
+I design, test, and build whatever sparks my curiosity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If an idea pops into my head or a system catches my attention, chances are I'll experiment with it to see how it works under the hood.
+
+My main tech stack and tools include HTML, CSS, JS, C++, Katalon, JMeter, Jira, and Docker as my absolute favorite.
+
+I've got a bunch of pinned projects, but my favorite is [].
+
+If you want to know more about me:
+
+**Fun Facts:**
+- I love drinking unsweetened coffee.
+- I can't handle spicy food.
+- My Neighbor Totoro is my favorite anime.
+- **Hobbies**: Jogging, building things, and reading fiction books
