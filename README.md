@@ -1,6 +1,6 @@
 ## Hi there 👋🤗
 
-I'm Naela, a Quality Assurance & IoT enthusiast, and web developer based in Malang.
+I'm Naela, a Quality Assurance & IoT enthusiast, and web developer based in Jember.
 
 I design, test, and build whatever sparks my curiosity.
 
