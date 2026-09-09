@@ -8,8 +8,6 @@ If an idea pops into my head or a system catches my attention, chances are I'll 
 
 My main tech stack and tools include HTML, CSS, JS, C++, Katalon, JMeter, Jira, and Docker as my absolute favorite.
 
-I've got a bunch of pinned projects, but my favorite is [].
-
 If you want to know more about me:
 
 **Fun Facts:**
